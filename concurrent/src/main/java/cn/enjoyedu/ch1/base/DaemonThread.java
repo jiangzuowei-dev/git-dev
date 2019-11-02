@@ -33,6 +33,7 @@ public class DaemonThread {
 		Thread.sleep(5);
 		useThread.interrupt();
 		System.out.println("======");
+
 	}
 
 }
